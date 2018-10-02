@@ -1,4 +1,4 @@
-package com.pokerbean.leetcode.listlist;
+package com.pokerbean.leetcode.listnode;
 
 /**
  * created by IntelliJ IDEA
